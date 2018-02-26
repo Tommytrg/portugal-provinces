@@ -1,0 +1,34 @@
+{
+  "name": "portugal-provinces",
+  "version": "1.0.0",
+  "description": "Return province which matches with given postalCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Tommytrg/portugal-provinces.git"
+  },
+  "homepage": "https://github.com/Tommytrg/portugal-provinces",
+  "keywords": [
+    "state",
+    "geo",
+    "province",
+    "district",
+    "region",
+    "portugal",
+    "codes",
+    "zip code",
+    "postal code"
+  ],
+  "author": {
+    "name": "Tomas Ruiz",
+    "email": "tomastrg22@gmail.com"
+  },
+  "license": "MIT"
+}
+
